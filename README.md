@@ -1,3 +1,6 @@
-# Starknet demo dapp
+# Starknet dapp
 
-This is an example Starknet react app, using [Starknet React](https://github.com/apibara/starknet-react).
+Authors :
+
+Sumash Chandra - [github](https://github.com/Bandaru-Sumash-Chandra/) 
+Rohith - [github](https://github.com/ndrohith09)
