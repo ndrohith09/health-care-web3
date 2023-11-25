@@ -1,7 +1,7 @@
 import {useState, useEffect} from 'react';
 import Web3 from 'web3';
 
-function App() {
+function MetaMask() {
   
   const [isConnected, setIsConnected] = useState(false);
   const [ethBalance, setEthBalance] = useState("");
@@ -75,4 +75,4 @@ function App() {
   );
 }
 
-export default App;
+export default MetaMask;
