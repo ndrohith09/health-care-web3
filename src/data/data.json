@@ -1,0 +1,98 @@
+[
+    {
+      "doctor_id": 101,
+      "name": "Dr. Sarah Miller",
+      "eth" : 0.0001,
+      "img" :"https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "specialization": "General Consultant",
+      "contact_number": "+1 123-456-7890",
+      "email": "sarah.miller@example.com",
+      "clinic_address": "123 Medical Lane, Cityville",
+      "date" : "20-10-2023",
+      "time" : "10 am"
+    },
+    {
+      "doctor_id": 102,
+      "eth" : 0.0005,
+      "img" : "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Dr. Robert Johnson",
+      "specialization": "Orthopedics",
+      "contact_number": "+1 987-654-3210",
+      "email": "robert.johnson@example.com",
+      "clinic_address": "456 Bone Street, Townsville",
+      "date" : "20-10-2023",
+      "time" : "11 am"
+    },
+    {
+      "doctor_id": 103,
+      "name": "Dr. Lisa Davis",
+      "eth" : 0.0006,
+      "img" : "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "specialization": "Cardiology",
+      "contact_number": "+1 555-666-7777",
+      "email": "lisa.davis@example.com",
+      "date" : "21-10-2023",
+      "time" : "6 pm",
+      "clinic_address": "789 Heart Avenue, Healthburg"
+    },
+    {
+      "doctor_id": 104,
+      "eth" : 0.0075,
+      "img" : "https://images.unsplash.com/photo-1552058544-f2b08422138a?q=80&w=1998&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Dr. Michael Wilson",
+      "specialization": "Dermatology",
+      "contact_number": "+1 111-222-3333",
+      "email": "michael.wilson@example.com",
+      "clinic_address": "012 Skin Plaza, Dermatown",
+      "date" : "21-10-2023",
+      "time" : "9 am"
+    },
+    {
+      "doctor_id": 105,
+      "eth" : 0.0006,
+      "img" : "https://images.unsplash.com/photo-1499952127939-9bbf5af6c51c?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "name": "Dr. Jennifer Brown",
+      "specialization": "Pediatrics",
+      "contact_number": "+1 333-444-5555",
+      "email": "jennifer.brown@example.com",
+      "clinic_address": "345 Child Street, Kidscity",
+      "date" : "22-10-2023",
+      "time" : "10 am"
+    },
+      {
+          "doctor_id": 106,
+          "eth": 0.0006,
+          "img":  "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=1961&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "Dr. Amanda White",
+          "specialization": "Gynecology",
+          "contact_number": "+1 777-888-9999",
+          "email": "amanda.white@example.com",
+          "clinic_address": "567 Women's Lane, Healthville",
+          "date" : "22-10-2023",
+          "time" : "1 pm"
+      },
+      {
+          "doctor_id": 107,
+          "eth": 0.0008,
+          "img": "https://images.unsplash.com/photo-1500048993953-d23a436266cf?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
+          "name": "Dr. Mark Taylor",
+          "specialization": "Ophthalmology",
+          "contact_number": "+1 444-555-6666",
+          "email": "mark.taylor@example.com",
+          "clinic_address": "890 Vision Street, Eyesville",
+          "date" : "22-10-2023",
+          "time" : "3 pm"
+      },
+      {
+          "doctor_id": 108,
+          "eth": 0.0007,
+          "img" : "https://images.unsplash.com/photo-1599566150163-29194dcaad36?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "name": "Dr. James Turner",
+          "specialization": "Neurology",
+          "contact_number": "+1 999-111-2222",
+          "email": "james.turner@example.com",
+          "clinic_address": "123 Brain Avenue, Neuroburg",
+          "date" : "22-10-2023",
+          "time" : "6 pm"
+      }
+]
