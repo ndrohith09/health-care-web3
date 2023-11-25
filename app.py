@@ -1,5 +1,5 @@
 from web3 import Web3
-infura_url = "https://mainnet.infura.io/v3/a05e115934c247c9b1a92b0f9072a342"
+infura_url = "https://mainnet.infura.io/v3/<key>"
 web3 = Web3(Web3.HTTPProvider(infura_url))
 latest = web3.eth.block_number
 print(latest)

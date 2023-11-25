@@ -1,10 +1,10 @@
-# curl https://mainnet.infura.io/v3/dc0837f07f054beab1384485688c2966 \
+# curl https://mainnet.infura.io/v3/<key> \
 #     -X POST \
 #     -H "Content-Type: application/json" \
 #     -d '{"jsonrpc":"2.0","method":"eth_getTransactionByHash","params":["input":"{"key": "value"}"],"id":1}'
 
 
-curl https://starknet-mainnet.infura.io/v3/dc0837f07f054beab1384485688c2966 \
+curl https://starknet-mainnet.infura.io/v3/<key> \
     -X POST \
     -H "Content-Type: application/json" \
     -d '{"jsonrpc":"2.0","method":"starknet_blockHashAndNumber","params":[],"id":1}'
